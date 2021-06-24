@@ -12,5 +12,5 @@
 <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
 <img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/-Nest.js-green"/><br>
+<img src="https://img.shields.io/badge/-Nest.js-green?&style=for-the-badge&logo"/><br>
 <img src="https://img.shields.io/badge/MySql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><br>
