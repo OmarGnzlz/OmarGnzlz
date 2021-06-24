@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGnzlz&layout=compact)](https://github.com/OmarGnzlz/github-readme-stats)
 
 ## 🔧 Skills 
-<img src="https://img.shields.io/badge/-NodeJS-339933"/><br>
+<img src="https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=appveyor"/><br>
 <img src="https://img.shields.io/badge/-JavaScript-yellow"/><br>
 <img src="https://img.shields.io/badge/-ExpressJS-brightgreen"/><br>
 <img src="https://img.shields.io/badge/-MongoDB-blue"/><br>
