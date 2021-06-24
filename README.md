@@ -8,9 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGnzlz&layout=compact)](https://github.com/OmarGnzlz/github-readme-stats)
 
 ## 🔧 Skills 
-<img src="hhttps://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"/><br>
-<img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labeColor=black&logo=javascript&logoColor=3C873A"/><br>
-<img src="https://img.shields.io/badge/-ExpressJS-brightgreen"/><br>
-<img src="https://img.shields.io/badge/-MongoDB-blue"/><br>
-<img src="https://img.shields.io/badge/-MySql-green"/><br>
-<img src="https://img.shields.io/badge/-NestJs-lightgrey"/><br>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
+<img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/-Nest.js-green"/><br>
+<img src="https://img.shields.io/badge/MySql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><br>
