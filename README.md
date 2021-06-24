@@ -9,7 +9,7 @@
 
 ## 🔧 Skills 
 <img src="hhttps://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"/><br>
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&labeColor=black&logo=javascript&logoColor=3C873A"/><br>
+<img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labeColor=black&logo=javascript&logoColor=3C873A"/><br>
 <img src="https://img.shields.io/badge/-ExpressJS-brightgreen"/><br>
 <img src="https://img.shields.io/badge/-MongoDB-blue"/><br>
 <img src="https://img.shields.io/badge/-MySql-green"/><br>
